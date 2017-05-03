@@ -1,0 +1,158 @@
+/* body */
+.body
+{
+	background: url(../img/bg.jpg);
+}
+/* navbar */
+.navbar .navbar-header .navbar-brand .logo
+{
+	width: 300px;
+	height: 80px;
+	padding-left: 20px;
+	margin-top: -20px;
+}
+.navbar-default
+{
+	background-color:blue  ;
+	padding: 30px;
+
+}
+.navbar-default .navbar-header .navbar-nav
+{
+	position:fixed;
+
+}
+.navbar-nav li  a{
+	color:red;
+	font-family: Mogra;
+	font-size: 20px;
+}
+.navbar-nav 
+{
+	padding-top: 50px;
+	float:right;
+}
+#navbar-collapse
+{
+	float: right;
+}
+.btn
+{
+	color:red;
+}
+/* form */
+ .maincontainer
+{
+	padding-right: 40px;
+	margin-left:10%;
+	text-align: center;
+	font-family: sofia;
+
+}
+/* carousel */
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img
+{
+      width: 50%;
+      margin: auto;
+}
+.carousel-inner >.item>a>img, .carousel-inner>.item>img,
+ .img-responsive, .thumbnail a>img, .thumbnail>img 
+{
+    display: block;
+    max-width: 100%;
+    height: 300px;
+    width: 900px;
+    padding-left: 20px;
+}
+/* third row */
+.row31
+{
+	padding-bottom:50px;
+}
+.row32
+ {
+ 	padding-left:50px;
+ 	width: 200px;
+ 	height: 175px;
+ }
+ .row33
+ {
+ 	padding-top: 5px;
+ 	padding-left:20px;
+ 	width: 200px;
+ 	height: 175px;
+ }
+ h2
+ {
+ 	font-family:Englebert;
+ }
+ .p
+{
+	font-family: Pacifico;
+}
+/* delivery */
+ .dev
+ {
+ 	padding-left: 10px;
+ 	font-family: Caesar Dressing;
+ }
+ .dev1
+ {
+ 	width: 250px;
+ 	height: 130px;
+ }
+ .dev2
+ {
+ 	width: 250px;
+ 	height: 130px;
+ }
+ /* jumbtron */
+ .jumbotron
+ {
+ 	background-color:blue ;
+    color: white;
+ }
+ .cen
+ {
+ 	text-align: center;
+ }
+ .three
+{
+	 width:300px;
+	 height:180px;
+}
+/* footer */
+.foot{
+	
+	font-size:20px;
+	text-align:center;
+}
+.copy{
+	text-align:center;
+	color:white;
+}
+#whatsapp{
+	font-size:48px;
+	color:white;
+	margin-left:1%;
+	
+}
+#facebook{
+	font-size:48px;
+	color:white;
+	margin-left:40%;
+}
+#google{
+	font-size:48px;
+	color:white;
+	margin-left:1%;
+}
+#twitter{
+	font-size:48px;
+	color:white;
+	margin-left:1%;
+}
+
+
+ 
